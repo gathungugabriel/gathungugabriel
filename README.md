@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gathungugabriel
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python in Geospatial analysis and visualisation and starting some Javascript
-- 💞️ I’m looking to collaborate on Python application in spatial analysis
+- 👀 I’m interested in Web development and data science using python (Django framework, pandas,Matplotlib, numpy among other python liblaries),XHTML,CSS & JavaScript.
+- 🌱 I’m currently learning React and looking for workshops for hand in experince.
+- 💞️ I’m looking to collaborate on any Python project in the above mentioned scope.
 - 📫 How to reach me -generalgab630@gmail.com
 
 <!---
